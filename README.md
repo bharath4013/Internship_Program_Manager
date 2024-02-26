@@ -1,4 +1,4 @@
-# Internship Program Management Application
+# Internship Program Manager Application
 
 - Efficiently capture and track internship program details with this application.
 - Easily manage intern information, create and edit batches, and ensure seamless integration of trainers.
